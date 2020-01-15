@@ -86,7 +86,7 @@ class GenerateRouteIdAndDotId(object):
         if arcpy.Exists(r'Database Connections\dev_elrs_ad_Lockroot.sde'):
             sde_filepath_param.value = r'Database Connections\dev_elrs_ad_Lockroot.sde'
         if arcpy.Exists(r'Database Connections\dev_elrs_ad_lockroot.sde'):
-            sde_filepath_param.value = r'Database Connections\dev_elrs_ad_Lockroot.sde'
+            sde_filepath_param.value = r'Database Connections\dev_elrs_ad_lockroot.sde'
 
         return [
             sde_filepath_param, route_id_flag_param, dot_id_flag_param
