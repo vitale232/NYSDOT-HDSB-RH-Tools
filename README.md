@@ -1,5 +1,5 @@
 # NYSDOT-HDSB-RH-Tools
-Utilities to accompany NYSDOT's Esri Roads and Highways implementation. The tools have three general categories:
+Utilities to accompany NYSDOT's Esri Roads and Highways implementation (ArcGIS 10.5.1). The tools have three general categories:
 
 |Category|Description|
 |--------|-----------|
